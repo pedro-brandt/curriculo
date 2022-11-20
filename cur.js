@@ -31,4 +31,3 @@ Parse.initialize(
   };
 
   lerFormacao();
-  
